@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Enzo Diego Borges da Silva, tenho 22 anos e sou natural de São José dos Campos-SP.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia.
+Me chamo Enzo Diego Borges da Silva, tenho 22 anos, sou natural de São José dos Campos-SP.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. Sou apaixonado por tecnologia.
 
 
 
